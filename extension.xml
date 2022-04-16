@@ -2,11 +2,14 @@
 
 <root version="3.0">
   <properties>
-    <name>Single Click Action 5e Extension</name>
+    <name>Feature: Single Click Action 5e Extension</name>
     <version>0.2.2</version>
     <author>fxg42</author>
     <description>Prevent double-clicks on Power Action button clicks</description>
     <loadorder>100</loadorder>
+	<ruleset>
+		<name>5E</name>
+	</ruleset>
   </properties>
 
   <announcement text="Single Click Action v0.2.2" font="emotefont" icon="raven"/>
